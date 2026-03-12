@@ -1,0 +1,8 @@
+flask
+xgboost
+scikit-learn
+pandas
+numpy
+python-dateutil
+gunicorn
+streamlit
