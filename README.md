@@ -7,7 +7,7 @@
 Dashboard interactif de détection de fraude bancaire par Machine Learning.
 
 ## 🌐 Demo live
-👉 **[Accéder au dashboard](https://XXXX.streamlit.app)**
+👉 **[Accéder au dashboard](https://fraud-detection-demo-cartnncse7rfpibxqjywrd.streamlit.app/)**
 
 ## 🔍 Ce que fait ce dashboard
 - Analyse automatique de 200 transactions bancaires
